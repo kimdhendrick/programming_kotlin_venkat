@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.agiledeveloper.airportstatus.AirportTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-08-14T22:52:32" hostname="Kimberlys-MacBook-Pro.local" time="0.618">
+  <properties/>
+  <testcase name="getAirportData invokes fetchData" classname="com.agiledeveloper.airportstatus.AirportTest" time="0.616"/>
+  <testcase name="create Airport" classname="com.agiledeveloper.airportstatus.AirportTest" time="0.778"/>
+  <testcase name="canary test should pass" classname="com.agiledeveloper.airportstatus.AirportTest" time="0.791"/>
+  <testcase name="getAirportData extracts Airport from JSON returned by fetchData" classname="com.agiledeveloper.airportstatus.AirportTest" time="0.02"/>
+  <testcase name="getAirportData handles error fetching data" classname="com.agiledeveloper.airportstatus.AirportTest" time="0.012"/>
+  <testcase name="sort airports by name" classname="com.agiledeveloper.airportstatus.AirportTest" time="0.777"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
